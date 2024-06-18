@@ -1,0 +1,17 @@
+{  
+    "otp":123456,
+    "phone": 8499092249,
+    "name":"PUGAZHENTHI",
+    "last_name": "R",
+    "PAN_no": "fwjpp1528l",
+    "Address": "Nellore",
+    "city": "Nellore",
+    "pincode": 524003,
+    "Login_id": 123456,
+    "salary": 300000,
+    "card_no": 5123456789012346,
+    "card_expiry": "07/25",
+    "cardCvv": 123,
+    "cardOwnerName": "Test",
+    "password":123456   
+}
